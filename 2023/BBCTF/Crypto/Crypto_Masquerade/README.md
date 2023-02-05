@@ -4,6 +4,9 @@
 The truth is hidden in the shadows, masked by a facade of deception. Peel back the layers and look deeper to reveal the truth.
 
 # 問題内容
+確認中。
+
+flag{wA17_1tS_all_rs4?_Alw4ys_H4S_b33N}
 
 ```python
 # coding:utf-8
