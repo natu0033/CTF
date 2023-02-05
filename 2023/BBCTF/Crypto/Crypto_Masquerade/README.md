@@ -1,9 +1,9 @@
-#[Crypto] Crypto_Masquerade
+# [Crypto] Crypto_Masquerade
 
-#問題文
+# 問題文
 The truth is hidden in the shadows, masked by a facade of deception. Peel back the layers and look deeper to reveal the truth.
 
-#問題内容
+# 問題内容
 
 ```python
 # coding:utf-8
